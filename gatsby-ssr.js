@@ -5,3 +5,5 @@
  */
 
 // You can delete this file if you're not using it
+// ビルド時におけるReactレンダリングの挙動を変更するファイル。
+// プラグインが動作をいじる場合に使用することが多い。

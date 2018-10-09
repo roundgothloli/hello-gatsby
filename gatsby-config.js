@@ -19,3 +19,4 @@ module.exports = {
     'gatsby-plugin-offline',
   ],
 }
+// サイトのメタデータやGatsbyで使用するプラグインの設定などを記述する。
