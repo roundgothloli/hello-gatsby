@@ -17,6 +17,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    'gatsby-plugin-styled-components',
   ],
 }
 // サイトのメタデータやGatsbyで使用するプラグインの設定などを記述する。
